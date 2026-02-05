@@ -5,4 +5,5 @@ def add_numbers(a, b):
 
 def multiply_numbers(a, b):
     # TODO: Return the product of a and b
-    pass
+    assert multiply_numbers(3, 4) == 12
+    assert multiply_numbers(10, 0) == 0
