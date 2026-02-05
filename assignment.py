@@ -1,3 +1,5 @@
+from assignment import add_numbers, multiply_numbers
+
 def add_numbers(a, b):
     # TODO: Return the sum of a and b
     assert add_numbers(2, 3) == 5
