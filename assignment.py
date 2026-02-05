@@ -1,7 +1,7 @@
 def add_numbers(a, b):
     # TODO: Return the sum of a and b
-    c = a + b
-    pass
+    assert add_numbers(2, 3) == 5
+    assert add_numbers(-1, 1) == 0
 
 def multiply_numbers(a, b):
     # TODO: Return the product of a and b
